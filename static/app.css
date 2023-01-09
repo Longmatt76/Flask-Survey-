@@ -1,0 +1,30 @@
+h1 {
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+
+    
+
+body {
+    background-color: lightcyan;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+}
+
+
+h2 {
+    font-size: 1.5rem;
+}
